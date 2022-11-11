@@ -1,0 +1,13 @@
+  # I be on Discord and i seen a youtuber do it so i thought let me try 
+
+ ### How to use
+- Create an application at the (Developer panel)[https://discord.com/developers/applications/] (or you can use a previously existing one)
+- Create an application at the [Developer panel](https://discord.com/developers/applications/) (or you can use a previously existing one)
+- Make it into a bot if it isn't already one
+- Obtain your token
+- Run the command `npm run run BOT_TOKEN_HERE`
+- Invite the bot using the URL put into console
+- Use the `/lol` command
+- If your bot is brand new, you will need to wait up to 24h for your bot to be fully registered as "active"
+### Example
+`npm run run    MTA0MDY4NTAzOTA2NDcyMzQ5OA.Gf5h5J.oGDH_D6nrTu9x4Pf2zNgRU1sRjwmiRNMZbav7c     
